@@ -1,5 +1,5 @@
-## Odin Recipes
-# Intro
+# Odin Recipes
+## Intro
 - This project is for me to practice making a website with relative and absolute links. I'll also be 
 inserting images and using unordered and ordered list. I'm I will be using this to test the 
 knowledge of html that I've learn so far from Odin.
